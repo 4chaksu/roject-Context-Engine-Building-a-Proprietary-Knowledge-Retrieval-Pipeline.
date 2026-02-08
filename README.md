@@ -1,4 +1,4 @@
-# Project: Context Engine  
+# Project Context-Engine  
 ## Building a Proprietary Knowledge Retrieval Pipeline using Naive RAG
 
 ---
