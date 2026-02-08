@@ -1,1 +1,1 @@
-# roject-Context-Engine-Building-a-Proprietary-Knowledge-Retrieval-Pipeline.
+# Project-Context-Engine-Building-a-Proprietary-Knowledge-Retrieval-Pipeline.
